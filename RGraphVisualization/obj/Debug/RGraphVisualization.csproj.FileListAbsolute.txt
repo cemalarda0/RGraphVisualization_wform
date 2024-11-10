@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\RGraphVisualization\bin\Debug\RGraphVisualization.exe.config
+C:\Users\HP\source\repos\RGraphVisualization\bin\Debug\RGraphVisualization.exe
+C:\Users\HP\source\repos\RGraphVisualization\bin\Debug\RGraphVisualization.pdb
+C:\Users\HP\source\repos\RGraphVisualization\bin\Debug\tr-TR\RGraphVisualization.resources.dll
+C:\Users\HP\source\repos\RGraphVisualization\obj\Debug\RGraphVisualization.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RGraphVisualization\obj\Debug\RGraphVisualization.Form1.resources
+C:\Users\HP\source\repos\RGraphVisualization\obj\Debug\RGraphVisualization.Properties.Resources.resources
+C:\Users\HP\source\repos\RGraphVisualization\obj\Debug\RGraphVisualization.Form1.tr-TR.resources
+C:\Users\HP\source\repos\RGraphVisualization\obj\Debug\RGraphVisualization.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\RGraphVisualization\obj\Debug\RGraphVisualization.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RGraphVisualization\obj\Debug\tr-TR\RGraphVisualization.resources.dll
+C:\Users\HP\source\repos\RGraphVisualization\obj\Debug\RGraphVisualization.exe
+C:\Users\HP\source\repos\RGraphVisualization\obj\Debug\RGraphVisualization.pdb
